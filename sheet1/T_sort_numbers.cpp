@@ -19,9 +19,9 @@ int main() {
         min = C;
 
     // determine mid num
-    if (max == B && min == C) {
+    if ((max == B && min == C) || (max == C && min == B)) {
         mid = A;
-    } else if (max == A && min == C) {
+    } else if ((max == A && min == C) || (max == C && min == A)) {
         mid = B;
     } else {
         mid = C;
