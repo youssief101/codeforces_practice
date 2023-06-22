@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sheet_2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/sheet_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/sheet_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="A_1_to_N.cpp" />
+		<Unit filename="B_Even_Numbers.cpp" />
+		<Unit filename="C_Even_Odd_Positive_and_Negative.cpp" />
+		<Unit filename="D_Fixed_Password.cpp" />
+		<Unit filename="E_Max.cpp" />
+		<Unit filename="F_Multiplication_table.cpp" />
+		<Unit filename="Fixed_Password.cpp" />
+		<Unit filename="G_Factorial.cpp" />
+		<Unit filename="H_One_Prime.cpp" />
+		<Unit filename="I_Palindrome.cpp" />
+		<Unit filename="J_Primes_from_1_to_n.cpp" />
+		<Unit filename="K_Divisors.cpp" />
+		<Unit filename="L_GCD.cpp" />
+		<Unit filename="M_Lucky_Numbers.cpp" />
+		<Unit filename="N_Numbers_Histogram.cpp" />
+		<Unit filename="O_Pyramid.cpp" />
+		<Unit filename="P_Shape1.cpp" />
+		<Unit filename="Q_Digits.cpp" />
+		<Unit filename="R_Sequence_of_Numbers_and_Sum.cpp" />
+		<Unit filename="S_Sum_of_Consecutive_Odd_Numbers.cpp" />
+		<Unit filename="T_Shape2.cpp" />
+		<Unit filename="U_Some_Sums.cpp" />
+		<Unit filename="V_PUM.cpp" />
+		<Unit filename="W_Shape3.cpp" />
+		<Unit filename="X_Convert_To_Decimal2.cpp" />
+		<Unit filename="Y_Easy_Fibonacci.cpp" />
+		<Unit filename="Z_three_Numbers.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
