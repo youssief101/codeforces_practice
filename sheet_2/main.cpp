@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello world!" << endl;
-    return 0;
+    int i{20};
+    for (auto k : i)
+        cout << k;
 }
