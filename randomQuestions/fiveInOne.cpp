@@ -1,3 +1,5 @@
+// question link: https://codeforces.com/group/MWSDmqGsZm/contest/223205/problem/O
+
 #include <iostream>
 #include <cmath>
 using namespace std;
